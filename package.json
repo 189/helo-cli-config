@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/189/helo-cli-config/issues"
   },
+  "boilerplate": [
+    {
+      "name": "ts",
+      "package": "@helo-boilerplate/lib-ts",
+      "description": "typescript app boilerplate, pack with rollup"
+    }
+  ],
   "homepage": "https://github.com/189/helo-cli-config#readme"
 }
