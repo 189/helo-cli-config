@@ -21,6 +21,11 @@
       "name": "ts",
       "package": "@helo-boilerplate/lib-ts",
       "description": "typescript app boilerplate, pack with rollup"
+    },
+    {
+      "name": "js",
+      "package": "@helo-boilerplate/lib-js",
+      "description": "simple js app"
     }
   ],
   "homepage": "https://github.com/189/helo-cli-config#readme"
