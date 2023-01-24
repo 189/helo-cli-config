@@ -18,14 +18,19 @@
   },
   "boilerplate": [
     {
-      "name": "ts",
+      "name": "ts lib",
       "package": "@helo-boilerplate/lib-ts",
       "description": "typescript app boilerplate, pack with rollup"
     },
     {
-      "name": "js",
+      "name": "js lib",
       "package": "@helo-boilerplate/lib-js",
       "description": "simple js app"
+    },
+    {
+      "name": "esm lib",
+      "package": "@helo-boilerplate/lib-esm",
+      "description": "simple js app, with esmodule"
     }
   ],
   "homepage": "https://github.com/189/helo-cli-config#readme"
